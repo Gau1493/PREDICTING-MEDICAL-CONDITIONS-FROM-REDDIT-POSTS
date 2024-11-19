@@ -5,6 +5,7 @@ Thus, the exploratory analysis of four ML models: Logistic Regression, LSTM, Dec
 Project Title: Predicting Medical Conditions from Reddit Posts
 Project Description: Develop a machine learning model to predict specific medical conditions from text data sourced from Reddit posts. The goal is to create a tool that can assist in early detection and classification of various health conditions by analyzing patterns and content in social media posts.
 Dataset: Reddit Medical Conditions Dataset(https://zenodo.org/records/3941387#.YFfi3EhJHL8)
+
 Description: This dataset contains Reddit posts related to various medical conditions, labeled with specific conditions or symptoms. It is suitable for training models to classify medical conditions based on text data.
 Steps to be Completed in this Project:
 Data Preprocessing:
