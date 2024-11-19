@@ -2,8 +2,9 @@
 Modern day social media is filling up with discussions revolving around one’s or a close one’s health and such a platform can be of significant help when it comes to pre-diagnosis.
 This study applies machine learning approach to make a discovery about medical situation by analyzing text data from Reddits.
 Thus, the exploratory analysis of four ML models: Logistic Regression, LSTM, Decision Tree, and Random Forest was performed with the help of feature extraction using TF-IDF and Word2Vec. Logistic Regression had the highest accuracy score of 68.7/100; LSTM since it is a model that works best for sequential input data had an accuracy of 71.8/100. The analysis shows that more basic algorithms, such as Logistic Regression, and sequence-sensitive models like LSTM, are feasible for health data categorization from social media.
-Project Title: Predicting Medical Conditions from Reddit Posts
+
 Project Description: Develop a machine learning model to predict specific medical conditions from text data sourced from Reddit posts. The goal is to create a tool that can assist in early detection and classification of various health conditions by analyzing patterns and content in social media posts.
+
 Dataset: Reddit Medical Conditions Dataset(https://zenodo.org/records/3941387#.YFfi3EhJHL8)
 
 Description: This dataset contains Reddit posts related to various medical conditions, labeled with specific conditions or symptoms. It is suitable for training models to classify medical conditions based on text data.
